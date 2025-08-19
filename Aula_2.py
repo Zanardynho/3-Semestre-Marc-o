@@ -1,6 +1,6 @@
 print('''
-####### Aluno : Paulo Henrique Silva Zanardi #######
-####### 	        3º Semestre - ADS	     #######
+####### Paulo Henrique Silva Zanardi #######
+####### 	  3º Semestre - ADS	     #######
 ''')
 '''
 print("Atividade 1")
